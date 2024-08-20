@@ -7,6 +7,9 @@ It is meant to be a digital sketchbook that can be used during the entire lifecy
 
 The document contains various design elements that can be used to create ontologies and instantiations of ontologies. 
 
+NOW ALSO AVAILABLE IN [DRAW.IO](https://app.diagrams.net/#HAlexDonkers%2FOntologyDesignTemplate%2Fmain%2FOntologyDesignTemplate.drawio#%7B%22pageId%22%3A%22BihaI_O2vWQv7b-J20oE%22%7D)!
+Sven Zentgraf kindly recreated this template in draw.io. If you prefer to draw diagrams there, please use the draw.io template!
+
 **Contact**: 
 Alex Donkers, Eindhoven University of Technology, a.j.a.donkers@tue.nl
 
